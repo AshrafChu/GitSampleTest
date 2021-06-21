@@ -4,4 +4,8 @@ public class AnotherNewJavaClass {
 	
 	
 //	wo yao dang lv shi~~
+	
+	
+	//before reset
+	
 }
